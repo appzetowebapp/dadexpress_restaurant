@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>210018822653-gs1vqtj2j3lgr0drd80pia7eav1f3s86.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.210018822653-gs1vqtj2j3lgr0drd80pia7eav1f3s86</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>210018822653-h12dkhjnjl654gtbsl7p8r90oi4a34jl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMXmqpGOBKoKHtsn_o2hAZljxxDLkPCuQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>210018822653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dadexpress.restaurant</string>
+	<key>PROJECT_ID</key>
+	<string>dad-express</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dad-express.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:210018822653:ios:c51600fe0166b353d41194</string>
+	<key>DATABASE_URL</key>
+	<string>https://dad-express-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

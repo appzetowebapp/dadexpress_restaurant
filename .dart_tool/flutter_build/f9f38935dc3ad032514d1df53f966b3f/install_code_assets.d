@@ -1,0 +1,1 @@
+ C:\\Users\\admin\\Downloads\\dadexpress-restaurant_8mayy\\dadexpress-restaurant\\.dart_tool\\flutter_build\\f9f38935dc3ad032514d1df53f966b3f\\native_assets.json: 
