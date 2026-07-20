@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Minimal launch: same color as Flutter splash, no launcher UI -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#DDDEDF" />
+        </shape>
+    </item>
+</layer-list>
